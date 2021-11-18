@@ -1,3 +1,4 @@
+
 "use strict";
 
 const main = document.querySelector('main');
@@ -50,7 +51,7 @@ const data = [
   },
   {
     image: './img/angry.jpg',
-    text: 'I Want To Go Minecraft'
+    text: 'I Want To Play Minecraft'
   },
   {
     image: './img/grandma.jpg',
